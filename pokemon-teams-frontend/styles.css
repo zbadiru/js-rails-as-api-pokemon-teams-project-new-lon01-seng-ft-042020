@@ -68,3 +68,8 @@ body {
     }
   }
   
+  .card {
+    display: inline-block;
+    border-style: double;
+  }
+
